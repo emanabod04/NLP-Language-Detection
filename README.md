@@ -11,6 +11,9 @@ linguists will benefit from this solution. This kind of prediction systems
 are commonly employed in electronic devices such as mobile phones, 
 laptop computers, and so on for machine translation, as well as on robots. 
 It also aids in the tracking and identification of multilingual papers
+
+
+
 ## Conclusion and Champion Model:
 Ø We choose the SVC model as the champion model because 
 from the outcomes of the over-fitting and error analysis we 
